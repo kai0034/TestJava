@@ -64,6 +64,8 @@ public class Test {
 		
 		Life l = new Human();
 		l.printLife();
+		
+		l.print();
 
 //		String txt = "some text to be encrypted";
 //		String key = "key phrase used for XOR-ing";
