@@ -65,6 +65,7 @@ public class Test {
 		Life l = new Human();
 		l.printLife();
 		
+		//Testing from github sit
 		l.print();
 
 //		String txt = "some text to be encrypted";
