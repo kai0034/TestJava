@@ -1,6 +1,7 @@
 
 public class Animal {
 	
+	//Adding comment
 	public Animal(){
 		System.out.println("Animal created.");
 	}
