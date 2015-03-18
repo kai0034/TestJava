@@ -9,6 +9,7 @@ public class Animal {
 	//Adding comment
 	public static int a = 2;
 
+	//Adding from eclipse
 	public static void testClassMethod(){
 		System.out.println("The static method in Animal");
 	}
