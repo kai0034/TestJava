@@ -6,7 +6,7 @@ public class Animal {
 		System.out.println("Animal created.");
 	}
 	
-	
+	//Adding comment
 	public static int a = 2;
 
 	public static void testClassMethod(){
